@@ -1,0 +1,23 @@
+h1{
+    color: rgb(43, 5, 73);
+}
+h2{
+    color: rgb(192, 21, 21);
+    font-style: oblique;
+    font-size: 150%;
+}
+html{
+    background-color: antiquewhite;
+
+}
+img{
+    width: 400px;
+    margin: 20px;
+}
+ul{
+    list-style-type: square;
+}
+a.hover{
+    color: rgb(5, 112, 85);
+    outline: dotted lightcoral;
+}
