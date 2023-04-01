@@ -15,6 +15,6 @@
 // Примечания: Пользователь всегда вводит корректное число.
 
 // Советую округлить значение после расчетов, так как в некоторых случаях может получиться "длинная дробь".
-const temperatureCelsius = +prompt('Введите температуру в градусах Цельсия: ')
-const temperatureFahrenheit = Math.floor((((9 / 5) * temperatureCelsius + 32) * 100) / 100)
-alert (`Температура в ${temperatureCelsius}℃ будет равна ${temperatureFahrenheit} градусам по Фаренгейту`)
+const temperatureCelsius = +prompt('Введите температуру в градусах Цельсия: ');
+const temperatureFahrenheit = Math.floor((((9 / 5) * temperatureCelsius + 32) * 100) / 100);
+alert (`Температура в ${temperatureCelsius}℃ будет равна ${temperatureFahrenheit} градусам по Фаренгейту`);
